@@ -1,0 +1,7 @@
+{
+    "main": {
+        "files": {
+            "./build/js/hmles6-browser.min.js": ["./build/js/hmles6-browser.js"]
+        }
+    }
+}

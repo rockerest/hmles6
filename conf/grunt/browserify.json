@@ -1,0 +1,16 @@
+{
+    "main": {
+        "options": {
+            "transform": [
+                [
+                    "babelify", {
+                        "loose": "all"
+                    }
+                ]
+            ]
+        },
+        "files": {
+            "./build/js/hmles6-browser.js": ["./src/js/bootstrap.js"]
+        }
+    }
+}
