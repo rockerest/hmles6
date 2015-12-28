@@ -1,7 +1,0 @@
-{
-    "build": {
-        "files": {
-            "build/js/hmles6-es5.js": "src/js/bootstrap.js"
-        }
-    }
-}

@@ -1,0 +1,10 @@
+{
+    "vendor": {
+        "files": [
+            {
+                "src": "node_modules/requirejs/require.js",
+                "dest": "build/vendor/requirejs/require.js"
+            }
+        ]
+    }
+}

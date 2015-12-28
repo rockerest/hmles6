@@ -1,4 +1,4 @@
-class Person{
+export default class Person{
     constructor( name ){
         this.name = name;
     }
@@ -11,5 +11,3 @@ class Person{
         return this.name;
     }
 }
-
-export { Person };

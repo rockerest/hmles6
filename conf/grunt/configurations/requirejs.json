@@ -1,0 +1,15 @@
+{
+    "compile": {
+        "options": {
+            "baseUrl": "build/convert/",
+            "paths": {
+                "jquery": "empty:"
+            },
+            "mainConfigFile": "src/js/requirejs.config.json",
+            "stubModules": [ "text" ],
+            "optimize": "none",
+            "name": "bootstrap",
+            "out": "build/js/hmles6.js"
+        }
+    }
+}

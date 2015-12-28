@@ -1,0 +1,7 @@
+{
+    "build": {
+        "files": {
+            "build/js/hmles6.min.js": "build/js/hmles6.js"
+        }
+    }
+}
